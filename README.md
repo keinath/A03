@@ -23,6 +23,15 @@ Synch:
 Using the same account/email to sign up to all three applications is key. Because each application is a component of the whole project,using the same account allows synching, transfering, and uploading files. Depending on the version of the applications/software, after signing in, go to "System Preferences" and check to make sure that the accounts are linked together. 
 
 
+Project:
+
+1) Create a new project on WebStorm
+2) Enable Version Control Integration under Git
+3) Add to Git
+4) Commit to Git
+5) Check GitHub to see if the file was uploaded correctly, edit accordingly
+
+
 Features:
 
 Cloning - any repository created on GitHub is considered a remote repository, so cloning means to copy the repository and save it on to a local drive
