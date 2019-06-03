@@ -28,6 +28,8 @@ Merge conflict - occurs when merges have competing commits
 References:
 
 https://help.github.com/en/articles/about-merge-conflicts
+
 https://www.atlassian.com/git/tutorials/
+
 https://www.jetbrains.com/help/webstorm/meet-webstorm.html
 
