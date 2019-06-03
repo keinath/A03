@@ -20,7 +20,7 @@ In order to successfully complete a project, you must download all three program
 
 Synch:
 
-Using the same account/email to sign up to all three applications is key. Because each application is a component of the whole project,using the same account allows synching, transfering, and uploading files. Depending on the version of the applications/software, after signing in, go to "System Preferences" and check to make sure that the accounts are linked together. 
+Using the same account/email to sign up to all three applications is key. Because each application is a component of the whole project, using the same account allows synching, transfering, and uploading files. Depending on the version of the applications/software, after signing in, go to "System Preferences" and check to make sure that the accounts are linked together. 
 
 
 Project:
